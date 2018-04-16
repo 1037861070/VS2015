@@ -1,0 +1,4 @@
+﻿  001.c
+e:\vs2015\vs工作空间\001\001\001.c(9): warning C4013: “system”未定义；假设外部返回 int
+  001.vcxproj -> E:\VS2015\VS工作空间\001\Debug\001.exe
+  001.vcxproj -> E:\VS2015\VS工作空间\001\Debug\001.pdb (Full PDB)

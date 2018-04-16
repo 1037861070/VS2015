@@ -1,0 +1,4 @@
+﻿  斐波拉契求和.c
+c:\users\administrator\documents\visual studio 2015\projects\斐波拉契求和\斐波拉契求和\斐波拉契求和.c(10): warning C4013: “system”未定义；假设外部返回 int
+  斐波拉契求和.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\斐波拉契求和\Debug\斐波拉契求和.exe
+  斐波拉契求和.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\斐波拉契求和\Debug\斐波拉契求和.pdb (Full PDB)

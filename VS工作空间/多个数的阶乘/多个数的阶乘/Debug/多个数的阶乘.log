@@ -1,0 +1,4 @@
+﻿  阶乘.c
+e:\vs2015\vs工作空间\多个数的阶乘\多个数的阶乘\阶乘.c(15): warning C4013: “system”未定义；假设外部返回 int
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 无法解析的外部符号 _WinMain@16，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+E:\VS2015\VS工作空间\多个数的阶乘\Debug\多个数的阶乘.exe : fatal error LNK1120: 1 个无法解析的外部命令

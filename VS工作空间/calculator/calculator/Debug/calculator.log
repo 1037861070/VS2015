@@ -1,0 +1,36 @@
+﻿生成启动时间为 2016/6/12 12:19:40。
+     1>项目“G:\calculator\calculator\calculator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\calculator.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         e:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\calculator.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt calculatorDlg.cpp
+         calculatorDlg.cpp
+     1>g:\calculator\calculator\calculatordlg.cpp(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\calculator\calculator\calculatordlg.cpp(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\calculator\calculator\calculatordlg.cpp(237): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>g:\calculator\calculator\calculatordlg.cpp(248): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         e:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\calculator\Debug\calculator.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\calculator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\calculator\Debug\calculator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\calculator\Debug\calculator.lib" /MACHINE:X86 Debug\calculator.res
+         Debug\calculator.exe.embed.manifest.res
+         Debug\calculator.obj
+         Debug\calculatorDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\calculator.exe.embed.manifest" /manifest Debug\calculator.exe.intermediate.manifest e:\vs2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         calculator.vcxproj -> G:\calculator\Debug\calculator.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\calculator.unsuccessfulbuild”。
+         正在对“Debug\calculator.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\calculator\calculator\calculator.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.80

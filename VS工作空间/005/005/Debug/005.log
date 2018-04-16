@@ -1,0 +1,12 @@
+﻿  ways.c
+e:\vs2015\vs工作空间\005\005\ways.c(5): warning C4013: “malloc”未定义；假设外部返回 int
+e:\vs2015\vs工作空间\005\005\ways.c(13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  e:\vs2015\vs工作空间\005\005\ways.c(13): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  e:\vs2015\vs工作空间\005\005\ways.c(13): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  e:\vs2015\vs工作空间\005\005\ways.c(13): note: 此参数用作缓冲区大小
+  main.c
+e:\vs2015\vs工作空间\005\005\main.c(12): warning C4047: “函数”:“int”与“char [5]”的间接级别不同
+e:\vs2015\vs工作空间\005\005\main.c(12): warning C4024: “fgets”: 形参和实参 2 的类型不同
+  正在生成代码...
+  005.vcxproj -> E:\VS2015\VS工作空间\005\Debug\005.exe
+  005.vcxproj -> E:\VS2015\VS工作空间\005\Debug\005.pdb (Full PDB)

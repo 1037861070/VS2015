@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016/5/26 11:26:07。
+     1>项目“G:\GraphCPro\GraphCPro\GraphCPro.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\GraphCPro.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Graph.cpp
+         Graph.cpp
+     1>g:\graphcpro\graphcpro\graph.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\graphcpro\graphcpro\graph.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\graphcpro\graphcpro\graph.cpp(131): warning C4172: 返回局部变量或临时变量的地址
+       Link:
+         e:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\GraphCPro\Debug\GraphCPro.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\GraphCPro.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\GraphCPro\Debug\GraphCPro.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\GraphCPro\Debug\GraphCPro.lib" /MACHINE:X86 Debug\Graph.obj
+         Debug\Main.obj
+         Debug\Tourism.obj
+         LINK : 没有找到 G:\GraphCPro\Debug\GraphCPro.exe 或上一个增量链接没有生成它；正在执行完全链接
+         GraphCPro.vcxproj -> G:\GraphCPro\Debug\GraphCPro.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\GraphCPro\Debug\GraphCPro.exe;#1" /manifest Debug\GraphCPro.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\GraphCPro.unsuccessfulbuild”。
+         正在对“Debug\GraphCPro.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\GraphCPro\GraphCPro\GraphCPro.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.80

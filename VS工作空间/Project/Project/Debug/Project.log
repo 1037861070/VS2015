@@ -1,0 +1,46 @@
+﻿生成启动时间为 2016/5/18 23:47:24。
+     1>项目“G:\Project\Project\Project.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“G:\Project\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\Project.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt Graph.c Main.c Tourism.c
+         Tourism.c
+     1>g:\project\project\tourism.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>g:\project\project\tourism.c(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>g:\project\project\tourism.c(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>g:\project\project\tourism.c(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         Main.c
+     1>g:\project\project\main.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(304) : 参见“scanf”的声明
+         Graph.c
+     1>g:\project\project\graph.c(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\project\project\graph.c(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>g:\project\project\graph.c(39): warning C4013: “exit”未定义；假设外部返回 int
+     1>g:\project\project\graph.c(63): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>g:\project\project\graph.c(66): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+         正在生成代码...
+       Link:
+         e:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Project\Debug\Project.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Project.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Project\Debug\Project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Project\Debug\Project.lib" /MACHINE:X86 Debug\Graph.obj
+         Debug\Main.obj
+         Debug\Tourism.obj
+         Project.vcxproj -> G:\Project\Debug\Project.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\Project\Debug\Project.exe;#1" /manifest Debug\Project.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Project.unsuccessfulbuild”。
+         正在对“Debug\Project.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\Project\Project\Project.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.32

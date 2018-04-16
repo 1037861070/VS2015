@@ -1,0 +1,5 @@
+﻿  1.c
+e:\vs2015\vs工作空间\练习\练习\1.c(15): warning C4013: “system”未定义；假设外部返回 int
+e:\vs2015\vs工作空间\练习\练习\1.c(6): warning C4101: “flag”: 未引用的局部变量
+  练习.vcxproj -> E:\VS2015\VS工作空间\练习\Debug\练习.exe
+  练习.vcxproj -> E:\VS2015\VS工作空间\练习\Debug\练习.pdb (Full PDB)

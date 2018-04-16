@@ -1,0 +1,2 @@
+﻿  main.c
+c:\users\administrator\documents\visual studio 2015\projects\trian\trian\main.c(1): fatal error C1083: 无法打开包括文件: “stdio.h”: No such file or directory
